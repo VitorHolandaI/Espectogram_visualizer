@@ -8,7 +8,7 @@ Utility GUIs for inspecting and comparing audio experiment outputs.
 
 Dark-themed desktop GUI. Load any number of WAV files, view their spectrograms side-by-side, click to seek, and play audio inline.
 
-![screenshot placeholder](docs/screenshot.png)
+![screenshot](docs/screenshot.png)
 
 ### Features
 
